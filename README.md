@@ -4,7 +4,7 @@ Mobile Applications - Primeiro app - Expo
 # Integrantes
 Claudia - 2200267\
 Gabriel\
-Gabriela\
+Gabriela\2201414
 Felipe\
 Gustavo\
 Michael\
